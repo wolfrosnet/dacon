@@ -1,5 +1,3 @@
-# dacon
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:47A3D2,80:0D1117&height=350&section=header&text=dacon&fontSize=50&fontColor=ffffff&fontAlign=20&fontAlignY=65)
 
 <br>
